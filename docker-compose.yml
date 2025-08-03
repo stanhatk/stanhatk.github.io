@@ -1,6 +1,7 @@
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
+    platform: linux/amd64  # Add this line
     image: amirpourmand/al-folio:latest
     build: .
     ports:

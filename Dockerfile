@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM --platform=linux/amd64 ruby:3.2-slim
 ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
@@ -24,7 +24,7 @@ ENV LANG=en_US.UTF-8 \
     JEKYLL_ENV=production
 
 # install jekyll and dependencies
-RUN gem install jekyll bundler
+RUN gem install bundler -v "~> 2.5.0"
 
 RUN mkdir /srv/jekyll
 
