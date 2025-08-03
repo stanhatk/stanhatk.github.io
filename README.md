@@ -18,4 +18,8 @@ $ docker compose up
 $ npx prettier . --check
 ```
 
+```
+docker compose -f docker-compose-slim.yml up
+```
+
 Based on https://alshedivat.github.io/al-folio/
