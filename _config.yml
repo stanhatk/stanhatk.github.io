@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Stanislav
+first_name: Stan
 middle_name:
-last_name: Khatko
-email: stanislavkhatko@gmail.com
+last_name: Hatko
+email: stan.hatk@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My portfolio and blog website.
+  My portfolio and blog website. Software engineer.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: mandry, wanders, blog-website, portfolio-website, stanislavkhatko, mandry-nomad, # add your own keywords or leave empty
+keywords: wanders, blog-website, portfolio-website, stan-hatko, wanders-nomad, # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨🏼 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://stanislavkhatko.github.io # the base hostname & protocol for your site
+url: https://stanhatk.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -70,17 +70,16 @@ blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: stanislavkhatko # your facebook id
+facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: stanislavkhatko # your GitHub user name
-gitlab_username: stanislavkhatko # your GitLab user name
+github_username: stanhatk # your GitHub user name
+gitlab_username: stanhatk # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: stanislavkhatko # your instagram id
+instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: stanislav-khatko # your LinkedIn user name
+linkedin_username: stan-hatko # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -140,7 +139,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: stanislavkhatko/stanislavkhatko.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo: stanhatk/stanhatk.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOLyWGog # leave empty or specify your repo_id (see https://giscus.app/)
   category: General # name of the category under which discussions will be created
   category_id: DIC_kwDOLyWGos4Ce5C5 # leave empty or specify your category_id (see https://giscus.app/)

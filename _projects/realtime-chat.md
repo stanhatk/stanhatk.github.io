@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-md-12 text-center">
-        <a href="https://github.com/stanislavkhatko/secret-realtime-chat" class="btn btn-primary btn-lg" role="button" aria-pressed="true">View on GitHub</a>
+        <a href="https://github.com/stanhatk/secret-realtime-chat" class="btn btn-primary btn-lg" role="button" aria-pressed="true">View on GitHub</a>
     </div>
 </div>
 
@@ -96,6 +96,6 @@ Implemented design with black/dark theme
 
 <div class="row">
     <div class="col-md-12 text-center">
-        <a href="https://github.com/stanislavkhatko/secret-realtime-chat" class="btn btn-primary btn-lg" role="button" aria-pressed="true">View on GitHub</a>
+        <a href="https://github.com/stanhatk/secret-realtime-chat" class="btn btn-primary btn-lg" role="button" aria-pressed="true">View on GitHub</a>
     </div>
 </div>

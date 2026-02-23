@@ -1,18 +1,18 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Stanislav Khatko",
-    "label": "I build websites and applications | Full-stack web developer | What project do you have in mind?",
-    "image": "https://raw.githubusercontent.com/stanislavkhatko/stanislavkhatko/master/assets/avatar.jpeg",
-    "email": "stanislavkhatko@gmail.com",
+    "name": "Stan Hatko",
+    "label": "I build websites and applications | Full-stack web engineer | What project do you have in mind?",
+    "image": "https://raw.githubusercontent.com/stanhatk/stanhatk/master/assets/avatar.jpeg",
+    "email": "stan.hatk@gmail.com",
     "phone": "+380994707479",
-    "url": "https://stanislavkhatko.github.io",
+    "url": "https://stanhatk.github.io",
     "summary": "Experienced web software engineer with over 8 years of commercial web app development experience.\nI'm interested in both frontend and backend, databases and server. \nGot a proven track of leading development teams and startups.",
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "stanislav-khatko",
-        "url": "https://www.linkedin.com/in/stanislav-khatko/"
+        "username": "stan-hatko",
+        "url": "https://www.linkedin.com/in/stan-hatko/"
       }
     ]
   },
@@ -350,7 +350,7 @@
   "references": [
     {
       "name": "Enes Buğra Yenidünya",
-      "reference": "I strongly recommend Stanislav for a web software developer position in your organization. He has a wealth of knowledge and experience in his field, allowing him to excel in handling complex tasks. He is a valuable team member known for his excellent communication skills and willingness to assist others."
+      "reference": "I strongly recommend Stan for a web software developer position in your organization. He has a wealth of knowledge and experience in his field, allowing him to excel in handling complex tasks. He is a valuable team member known for his excellent communication skills and willingness to assist others."
     }
   ],
   "projects": [

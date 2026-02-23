@@ -1,8 +1,8 @@
-### https://stanislavkhatko.github.io/
+### https://stanhatk.github.io/
 
 <div style="text-align: center">
 
-[![Preview](readme_preview/stanislavkhatko.github.io.png)](https://stanislavkhatko.github.io/)
+[![Preview](readme_preview/stanhatk.github.io.png)](https://stanhatk.github.io/)
 
 **My blog, life, achievements, and cv**
 
