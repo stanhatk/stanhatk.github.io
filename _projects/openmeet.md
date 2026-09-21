@@ -3,7 +3,7 @@ layout: page
 title: Openmeet
 description: Open source event management platform
 img: assets/img/openmeet/platform-placeholder-min.png
-importance: 0
+importance: 2
 category: work
 images:
   compare: true
@@ -20,7 +20,7 @@ images:
 <div class="row mt-4">
     <div class="col mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front-min.png" title="business landing" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    </div>
 </div>
 <div class="caption">
     Marketing site for the Openmeet platform
@@ -46,7 +46,7 @@ images:
 <div class="row">
      <div class="col mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/openmeet/platform1-min.png" title="platform dashboard" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    </div>
 </div>
 
 <div class="row">

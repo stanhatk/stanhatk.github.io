@@ -23,7 +23,7 @@ images:
           {% include figure.liquid path="assets/img/wordmemo/wordmemo-landing.20.58.png" class="img-fluid rounded z-depth-1" slot="first" %}
           {% include figure.liquid path="assets/img/wordmemo/wordmemo-landing.56.37.png" class="img-fluid rounded z-depth-1" slot="second" %}
         </img-comparison-slider>
-    </div> 
+    </div>
 </div>
 <div class="caption">
     Landing page with marketing content — toggle to see the responsive mobile layout
@@ -35,7 +35,7 @@ images:
           {% include figure.liquid path="assets/img/wordmemo/wordmemo-front.59.42.png" class="img-fluid rounded z-depth-1" slot="first" %}
           {% include figure.liquid path="assets/img/wordmemo/wordmemo-front.59.38.png" class="img-fluid rounded z-depth-1" slot="second" %}
         </img-comparison-slider>
-    </div> 
+    </div>
 </div>
 <div class="caption">
     Public word collections listing — browse and search shared vocabulary sets
@@ -53,7 +53,6 @@ images:
 <div class="caption">
     Multi-language support with language selection during onboarding
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">

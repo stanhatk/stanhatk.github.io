@@ -3,7 +3,7 @@ layout: page
 title: Blind typing tutor
 description: Learn touch typing with multi-language support and gamified progress
 img: assets/img/keyboard/og-image.png
-importance: 0
+importance: 2
 category: work
 images:
   compare: true
