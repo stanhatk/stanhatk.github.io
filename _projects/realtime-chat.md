@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Realtime Chat rooms
-description: <a href='https://secret-chat.wordmemo.net'>Secret chat</a>
+description: Secret chat
 img: assets/img/secret-chat/secret-chat-16.44.png
 importance: 1
 category: work
