@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Openmeet
-description: <a href='https://openmeet.net'>openmeet.net</a>
+description: Open source event management platform
 img: assets/img/openmeet/platform-placeholder-min.png
 importance: 0
 category: work
@@ -9,34 +9,34 @@ images:
   compare: true
 ---
 
-<div>
-    <p>Open source event management platform <a href="https://github.com/OpenMeet-Team/openmeet-api">link to API repository</a> /
-    <a href="https://github.com/OpenMeet-Team/openmeet-platform">link to Platform repository</a></p>
-    <p>
-        <a href="https://platform.openmeet.net">Link to live platform</a>
-    </p>
+<div class="row mb-4">
+    <div class="col-md-12 text-center">
+        <a href="https://openmeet.net" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+        <a href="https://github.com/OpenMeet-Team/openmeet-api" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-github"></i> API</a>
+        <a href="https://github.com/OpenMeet-Team/openmeet-platform" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-github"></i> Platform</a>
+    </div>
 </div>
 
 <div class="row mt-4">
     <div class="col mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front-min.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front-min.png" title="business landing" class="img-fluid rounded z-depth-1" %}
     </div> 
 </div>
 <div class="caption">
-    Business front page
+    Marketing site for the Openmeet platform
 </div>
 
 <div class="row mt-4">
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front2-min.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front2-min.png" title="features section" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front3-min.png" title="section 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/biz.front3-min.png" title="pricing section" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Business site front page sections and information
+    Feature highlights and pricing sections on the business landing page
 </div>
 
 <div class="mt-4">
@@ -45,29 +45,29 @@ images:
 
 <div class="row">
      <div class="col mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform1-min.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform1-min.png" title="platform dashboard" class="img-fluid rounded z-depth-1" %}
     </div> 
 </div>
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform2-min.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform2-min.png" title="event list" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform3-min.png" title="section 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform3-min.png" title="event detail" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-Event platform sections
+    Event listing and detail views with RSVP and attendance tracking
 </div>
 
 <div class="row">
      <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform6-min.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform6-min.png" title="group management" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform7-min.png" title="section 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/openmeet/platform7-min.png" title="user permissions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -90,22 +90,17 @@ Event platform sections
 </div>
 
 <div class="caption">
-Functinality included in the platform: 
-<ul>
-    <li>Event management</li>
-    <li>Group management</li>
-    <li>Users and rights</li>
-    <li>Attendance management</li>
-    <li>Chat and group communication</li>
-</ul>
+    Platform features: event management, group management, user roles, attendance tracking, and group chat
+</div>
 
 <div class="caption">
-    Used technologies:
-    <ul>
-        <li>Quasar (Vue)</li>
-        <li>Nest.js</li>
-        <li>PostgreSQL</li>
-        <li>Docker</li>
-        <li>AWS</li>
-    </ul>
+    Tech stack: Quasar (Vue), Nest.js, PostgreSQL, Docker, AWS
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-12 text-center">
+        <a href="https://openmeet.net" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+        <a href="https://github.com/OpenMeet-Team/openmeet-api" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-github"></i> API</a>
+        <a href="https://github.com/OpenMeet-Team/openmeet-platform" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-github"></i> Platform</a>
+    </div>
 </div>

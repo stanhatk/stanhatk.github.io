@@ -1,11 +1,17 @@
 ---
 layout: page
 title: Onstruc
-description: <a href='https://web.onstruc.com'>web.onstruc.com</a>
+description: Photo documentation platform for construction projects
 img: assets/img/onstruc/front.png
 importance: 2
 category: work
 ---
+
+<div class="row mb-4">
+    <div class="col-md-12 text-center">
+        <a href="https://web.onstruc.com" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -13,7 +19,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Front page of photo documentation application
+    Marketing page for the construction photo documentation tool
 </div>
 
 <div class="row">
@@ -22,7 +28,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Onstruc presentation
+    Product walkthrough video demonstrating core features
 </div>
 
 <div class="row">
@@ -30,35 +36,35 @@ category: work
         {% include figure.liquid loading="eager" path="assets/img/onstruc/login.png" title="login" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects.png" title="projects" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects.png" title="projects dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects1.png" title="projects1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects1.png" title="project detail" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Onstruc dashboard for management projects and documentation
+    Dashboard for managing projects, viewing photo timelines, and browsing documentation
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects-map.jpg" title="Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/onstruc/projects-map.jpg" title="Map view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Google Map api in use
+    Google Maps integration for geolocating project sites and photo markers
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/onstruc/block-form.png" title="block-form" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/onstruc/block-form.png" title="project form" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/onstruc/report-form.png" title="report-form" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/onstruc/report-form.png" title="report form" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Forms for project and report creation
+    Forms for creating new projects and generating photo reports
 </div>
 
 <div class="row">
@@ -67,5 +73,11 @@ Forms for project and report creation
     </div> 
 </div>
 <div class="caption">
-    Generated report example
+    Auto-generated PDF report with annotated photos and timestamps
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-12 text-center">
+        <a href="https://web.onstruc.com" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+    </div>
 </div>

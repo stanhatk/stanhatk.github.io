@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Wordmemo Flashcards
-description: <a href='https://platform.wordmemo.net'>platform.wordmemo.net</a>
+title: Flashcards
+description: Crossplatform language learning app with spaced repetition flashcards
 img: assets/img/wordmemo/wordmemo-front.59.42.png
 importance: 0
 category: work
 images:
   compare: true
 ---
+
+<div class="row mb-4">
+    <div class="col-md-12 text-center">
+        <a href="https://platform.wordmemo.net" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+        <a href="https://apps.apple.com/app/id6504834015" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-apple"></i> App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=net.wordmemo.flashcards.app" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-google-play"></i> Google Play</a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,7 +26,7 @@ images:
     </div> 
 </div>
 <div class="caption">
-    Website with landing page and public pages for learning words app
+    Landing page with marketing content — toggle to see the responsive mobile layout
 </div>
 
 <div class="row">
@@ -30,20 +38,20 @@ images:
     </div> 
 </div>
 <div class="caption">
-    Front page of user facing word collections listing
+    Public word collections listing — browse and search shared vocabulary sets
 </div>
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wordmemo/wordmemo-lang.57.50.png" title="section" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wordmemo/wordmemo-lang.57.50.png" title="language picker" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/wordmemo/wordmemo-lang.57.54.png" title="section 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/wordmemo/wordmemo-lang.57.54.png" title="language list" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-Language selection
+    Multi-language support with language selection during onboarding
 </div>
 
 
@@ -63,5 +71,13 @@ Language selection
 </div>
 
 <div class="caption">
-Cards and flashcard slider
+    Word list view and interactive flashcard slider for review sessions
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-12 text-center">
+        <a href="https://platform.wordmemo.net" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Visit site</a>
+        <a href="https://apps.apple.com/app/id6504834015" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-apple"></i> App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=net.wordmemo.flashcards.app" class="btn btn-outline-primary btn-lg ms-2" role="button"><i class="fa-brands fa-google-play"></i> Google Play</a>
+    </div>
 </div>

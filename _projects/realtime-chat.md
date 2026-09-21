@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Realtime Chat rooms
-description: Secret chat
+title: Chat Rooms
+description: Encrypted chat application with realtime room-based messaging
 img: assets/img/secret-chat/secret-chat-16.44.png
 importance: 1
 category: work
@@ -16,82 +16,82 @@ related_publications: false
 
 <div class="row mt3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-16.44.png" title="Front page" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-16.44.png" title="landing page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Front (public) page of chat website
+    Public landing page with feature overview and call to action
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-16.56.png" title="article" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-16.56.png" title="dark theme" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.30.png" title="footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.30.png" title="dark variant" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.37.png" title="listing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.37.png" title="dark layout" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-Implemented design with black/dark theme
+    Dark theme implementation across all page layouts
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-13.52.png" title="article" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-13.52.png" title="login" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.01.png" title="footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.01.png" title="register" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.06.png" title="article" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.06.png" title="login form" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.08.png" title="footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-14.08.png" title="register form" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Login and registration forms
+    Login and registration flows with form validation
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.58.png" title="article" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-17.58.png" title="chat rooms" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-20.28.png" title="footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-20.28.png" title="active chat" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-21.19.png" title="listing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-21.19.png" title="messages" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Profile and chat pages
+    Real-time chat interface with room selection and message history
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-18.15.png" title="article" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-18.15.png" title="profile" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-20.14.png" title="footer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-20.14.png" title="profile dark" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-21.27.png" title="listing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/secret-chat/secret-chat-21.27.png" title="settings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Profile and chat pages in black
+    User profile and settings pages in both light and dark themes
 </div>
 
 <div class="row">
