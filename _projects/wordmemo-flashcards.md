@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wordmemo
-description: <a href='https://wordmemo.net'>wordmemo.net</a>
+title: Wordmemo Flashcards
+description: <a href='https://platform.wordmemo.net'>platform.wordmemo.net</a>
 img: assets/img/wordmemo/wordmemo-front.59.42.png
 importance: 0
 category: work
